@@ -1,0 +1,33 @@
+= Traçabilité exigences - code
+
+== Contexte
+
+== Exigences
+
+Voici la liste des exigences de départ :
+
+=== 1 -- HelloWorld 
+
+Description::
+Le programme doit contenir une méthode `hello()` qui retourne "Hello World!" quand on l'exécute sans paramètre. 
+
+Issue::
+- https://github.com/IUT-Blagnac/tracabilite-template/issues/1
+
+Importance::
+Must
+
+=== 2 -- Echo 
+
+Description::
+La méthode `hello()` doit retourner son paramètre quand on l'invoque avec un paramètre. 
+
+Issue::
+
+Importance::
+Should
+
+
+== Steps
+
+mvn archetype:generate -DinteractiveMode=false
