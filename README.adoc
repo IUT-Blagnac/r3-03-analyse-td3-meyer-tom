@@ -2,6 +2,8 @@
 :icons: font
 :MoSCoW: https://fr.wikipedia.org/wiki/M%C3%A9thode_MoSCoW[MoSCoW]
 
+= ⚠️ TP réalisé avec Kylian Gachet
+
 == Contexte
 
 Le but de ce TD/TP est de vous montrer des exemples de traces formelles entre les différents artefacts de votre application (des exigences jusqu'au code).
